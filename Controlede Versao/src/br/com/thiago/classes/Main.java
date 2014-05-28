@@ -1,7 +1,7 @@
 package br.com.thiago.classes;
 
 /** 
- * Mudanças feitas no GIT HUB
+ * Mudanças feitas no Git Hub
  */
 
 public class Main {
