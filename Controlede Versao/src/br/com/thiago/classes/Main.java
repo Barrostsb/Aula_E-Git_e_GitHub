@@ -1,8 +1,12 @@
 package br.com.thiago.classes;
 
+/** 
+ * MudanÃ§as feitas no GIT HUB
+ */
+
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("Ola mundo...\nControle de Versõa com EGit");
+		System.out.println("Ola mundo...\nControle de Versï¿½a com EGit");
 	}
 
 }
